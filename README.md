@@ -1,6 +1,7 @@
 ## Network communication client and server
 Implemented as part of IK1203 Networks and Communication course at KTH. 
-Both the client and server are implemented in Java.
+Both the client and server are implemented in Java. 
+Compile as Java like normal with a port as input.
 
 Task 1: TCP client   
 
